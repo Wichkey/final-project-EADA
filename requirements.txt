@@ -1,0 +1,12 @@
+# Python dependencies
+
+pandas
+numpy
+pyarrow
+fastparquet
+scikit-learn
+scipy
+matplotlib
+seaborn
+plotly
+statsmodels
